@@ -7,6 +7,7 @@ Randomized Elements:
 * All 6 Yellow Hearts (Location/Item)
 * All Power Ups (Location/Item)
 * All Rabbits (Location/Item)
+* All Carrots (Location/Item)
 * Boss Access (Item)
 * Level Access (Item)
 * Boss Kills  (Location)
